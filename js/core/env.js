@@ -1,0 +1,1 @@
+const ENV={};for(const [k,w,h] of [['rest',51,52],['chest',49,52],['door',52,55],['npc',46,54],['fragment',46,34],['obj',54,55],['heal',31,37],['key',26,40],['stairs',43,58],['window',0,0],['floor',0,0],['wall',0,0],['scene',0,0],['furn',0,0]])ENV[k]={i:null,ok:false,w,h};
