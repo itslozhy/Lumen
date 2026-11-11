@@ -4,7 +4,9 @@ Jogo de plataforma/ação em pixel art, feito em HTML5 Canvas e JavaScript puro,
 
 ## Como jogar
 
-Abra o `index.html` no navegador. Para um servidor local:
+**Jogue online:** https://itslozhy.github.io/Lumen/
+
+Para rodar localmente, abra o `index.html` no navegador ou suba um servidor local:
 
 ```bash
 python3 -m http.server 8000
